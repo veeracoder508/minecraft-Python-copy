@@ -1,4 +1,4 @@
-# UrsaCraft
+# UrsaCraft©
 >[!NOTE]
 > This is a clone of minecraft in python
 
