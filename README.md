@@ -1,4 +1,4 @@
-# Intorduction
+# UrsaCraft
 >[!NOTE]
 > This is a clone of minecraft in python
 
@@ -34,6 +34,3 @@ press `super`+`tab` and change the window and press `ctrl`+`C` on the terminal t
 
 >[!IMPORTANT]
 >If non of these work please inform it to me at veeracoder123@gmail.com or ***create an issue*** for this repository and five the evidence for that like a screenshot or a photo and please give a brief description on the error.
-
->[!NOTE]
->If you have updated or fixed any bugs please tell it to me at veeracoder123@gmail.com
